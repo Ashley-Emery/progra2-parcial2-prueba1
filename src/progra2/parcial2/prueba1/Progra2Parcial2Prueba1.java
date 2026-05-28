@@ -15,6 +15,7 @@ public class Progra2Parcial2Prueba1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        new AnalizadorGUI();
     }
     
 }
